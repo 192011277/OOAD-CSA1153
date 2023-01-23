@@ -1,0 +1,27 @@
+package exam;
+
+import string;
+import double;
+
+public class examregistrationmanagement {
+
+  public string appplicantdetails;
+
+  public string examvenuedetails;
+
+  public double payment;
+
+    
+  public void verification() {
+  }
+
+  public void cancellation() {
+  }
+
+  public void updates() {
+  }
+
+  public void storedetails() {
+  }
+
+}
